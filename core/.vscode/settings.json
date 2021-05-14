@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "c:\\Users\\selen\\Masaüstü\\3_rest\\venv\\Scripts\\python.exe",
+    "python.autoComplete.extraPaths": ["C:\\Users\\selen\\Masaüstü\\3_rest\\venv\\Lib\\site-packages"], 
+    // bazen paketleri görmekte zorlanıyor diye bunu da akledik
+}
